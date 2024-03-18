@@ -1,0 +1,33 @@
+        <ul class="footer-list">
+
+          <li>
+            <p class="footer-list-title">Online Platform</p>
+          </li>
+
+          <li>
+            <a href="#" class="footer-link">صفحه اصلی</a>
+          </li>
+
+          <li>
+            <a href="#" class="footer-link">درباره ما</a>
+          </li>
+
+          <li>
+            <a href="#" class="footer-link">کلاس ها</a>
+          </li>
+
+          <li>
+            <a href="#" class="footer-link">با ما در ارتباط باشید</a>
+        </li>
+
+        </ul>
+
+        <ul class="footer-list">
+
+            <li>
+              <p class="footer-list-title">Links</p>
+            </li>
+  
+            <li>
+              <a href="#" class="footer-link">البوم</a>
+          </ul>
